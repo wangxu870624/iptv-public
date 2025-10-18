@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NASA TV" group-title="Education",NASA TV
+https://www.nasa.gov/multimedia/nasatv.m3u8
+#EXTINF:-1 tvg-name="DW News" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwenglish/index.m3u8
+#EXTINF:-1 tvg-name="France 24" group-title="News",France 24
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="Sky News" group-title="News",Sky News
+https://linear016-gb-hls1-prd-ak.cdn.skycdp.com/016/Content/HLS_001_1080_120/Live/channel(016)/index.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan" group-title="News",NHK World Japan
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003459-b/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-name="CGTN English" group-title="News",CGTN English
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="TED Talks Live" group-title="Education",TED Talks Live
+https://tedconferences-live.akamaized.net/hls/live/2031255/tedtalks/master.m3u8
+#EXTINF:-1 tvg-name="ESA European Space Agency" group-title="Education",ESA European Space Agency
+https://esa.stream.cdn.mind.nl/hls/live.m3u8
+#EXTINF:-1 tvg-name="CMC California Music Channel" group-title="Music",CMC California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="4Fun TV" group-title="Music",4Fun TV
+https://stream.4fun.tv:8888/hls/4funtv.m3u8
+#EXTINF:-1 tvg-name="Nature Relax 4K" group-title="Scenery",Nature Relax 4K
+https://bloomberg-nature-1-us.cdn.mediahz.com/hls/live/2024731/naturetv/index.m3u8
+#EXTINF:-1 tvg-name="Slow TV Norway" group-title="Scenery",Slow TV Norway
+https://nrk1-i.akamaihd.net/hls/live/2022002/nrk1/master.m3u8
+#EXTINF:-1 tvg-name="BBC World Service" group-title="Radio",BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+#EXTINF:-1 tvg-name="NPR News" group-title="Radio",NPR News
+https://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1 tvg-name="厦门电视台公共频道" group-title="China",厦门电视台公共频道
+http://live.xmtv.cn/xmtv/ggpd.m3u8
+#EXTINF:-1 tvg-name="宁波电视台新闻综合" group-title="China",宁波电视台新闻综合
+http://live.nbtv.cn/channels/nbtv/news/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-name="南宁新闻综合" group-title="China",南宁新闻综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 tvg-name="CGTN 中文国际" group-title="China",CGTN 中文国际
+https://live.cgtn.com/1000c/prog_index.m3u8
