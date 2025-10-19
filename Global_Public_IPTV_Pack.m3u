@@ -1,39 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NASA TV" group-title="Education",NASA TV
-https://www.nasa.gov/multimedia/nasatv.m3u8
-#EXTINF:-1 tvg-name="DW News" group-title="News",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwenglish/index.m3u8
-#EXTINF:-1 tvg-name="France 24" group-title="News",France 24
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="Sky News" group-title="News",Sky News
-https://linear016-gb-hls1-prd-ak.cdn.skycdp.com/016/Content/HLS_001_1080_120/Live/channel(016)/index.m3u8
-#EXTINF:-1 tvg-name="NHK World Japan" group-title="News",NHK World Japan
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003459-b/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-name="CGTN English" group-title="News",CGTN English
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="TED Talks Live" group-title="Education",TED Talks Live
-https://tedconferences-live.akamaized.net/hls/live/2031255/tedtalks/master.m3u8
-#EXTINF:-1 tvg-name="ESA European Space Agency" group-title="Education",ESA European Space Agency
-https://esa.stream.cdn.mind.nl/hls/live.m3u8
-#EXTINF:-1 tvg-name="CMC California Music Channel" group-title="Music",CMC California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
-#EXTINF:-1 tvg-name="4Fun TV" group-title="Music",4Fun TV
-https://stream.4fun.tv:8888/hls/4funtv.m3u8
-#EXTINF:-1 tvg-name="Nature Relax 4K" group-title="Scenery",Nature Relax 4K
-https://bloomberg-nature-1-us.cdn.mediahz.com/hls/live/2024731/naturetv/index.m3u8
-#EXTINF:-1 tvg-name="Slow TV Norway" group-title="Scenery",Slow TV Norway
-https://nrk1-i.akamaihd.net/hls/live/2022002/nrk1/master.m3u8
-#EXTINF:-1 tvg-name="BBC World Service" group-title="Radio",BBC World Service
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
-#EXTINF:-1 tvg-name="NPR News" group-title="Radio",NPR News
-https://npr-ice.streamguys1.com/live.mp3
-#EXTINF:-1 tvg-name="厦门电视台公共频道" group-title="China",厦门电视台公共频道
-http://live.xmtv.cn/xmtv/ggpd.m3u8
-#EXTINF:-1 tvg-name="宁波电视台新闻综合" group-title="China",宁波电视台新闻综合
-http://live.nbtv.cn/channels/nbtv/news/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name="南宁新闻综合" group-title="China",南宁新闻综合
-http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-#EXTINF:-1 tvg-name="CGTN 中文国际" group-title="China",CGTN 中文国际
-https://live.cgtn.com/1000c/prog_index.m3u8
+#EXTINF:-1,CCTV1
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
+#EXTINF:-1,CCTV2
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
+#EXTINF:-1,CCTV3
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1760585411&token=d62685a3c74216fb529a697d66a6e0c9
+#EXTINF:-1,CCTV4
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1760585411&token=30206ac2abdd37a1d4104f2bc86536db
+#EXTINF:-1,CCTV5
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1760585411&token=11ca3f429dba1df4ad42fb1f50512dfa
+#EXTINF:-1,CCTV5+
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
+#EXTINF:-1,CCTV6
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1760585411&token=944b6327597e5ab6e14998beedd01e06
+#EXTINF:-1,CCTV7
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1760585411&token=ef4566ffc523128175204c2939d3a5b8
+#EXTINF:-1,CCTV8
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
+#EXTINF:-1,CCTV9
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1760585411&token=da9c8b1a8c75b3a27e5d2813c00dc7b2
+#EXTINF:-1,CCTV10
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1760585411&token=904dc116f371d163a15a0f3a5bfe48cc
+#EXTINF:-1,CCTV11
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1760585411&token=821b5631124e90e68b543463dba4e16a
+#EXTINF:-1,CCTV12
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1760585411&token=59ec7ffad1e9e9e38e9afbc330fbea04
+#EXTINF:-1,CCTV13
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1760585411&token=cde87db33a1a9c36c65a2f73e3a9ff07
+#EXTINF:-1,CCTV14
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=80bd93b5d36b1ec98fcd22d9f926ee09
+#EXTINF:-1,CCTV15
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=09554eaa18bb7938b0a35bcb56022466
+#EXTINF:-1,CCTV17
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
+#EXTINF:-1,湖南卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=63c0683563bf5cdb47b73722260627a5
+#EXTINF:-1,山东卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1760585411&token=ee8831f5c034ff124ca964335ba77a8d
+#EXTINF:-1,山西卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=90c270ada4720f2c2d561a1133b58a6a
+#EXTINF:-1,人间卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86&t=1760585411&token=349ca181afac0a4e6761870ba7ce9342
+#EXTINF:-1,甘肃卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1760585411&token=ca23a984380ccb5a5338cb57fec640f5
+#EXTINF:-1,广东卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1760585411&token=ddff613b7b5eb28d40acab9fe5a9840d
+#EXTINF:-1,广西卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=c17f841f0f8ebd14e3662f03d23f5123
+#EXTINF:-1,延边卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&t=1760585411&token=6cc2346c995617f4c19f7a65e43a86da
+#EXTINF:-1,三沙卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1760585411&token=32a71b01c95fbab09c016decd5a754b7
+#EXTINF:-1,东南卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=70d8fd2d048aee0b3436a8ed1a161785
+#EXTINF:-1,新疆卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1760585411&token=4ae1862d33270f5117c7d71431b29c38
+#EXTINF:-1,云南卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=24326c58bc66011ebeee29505f981204
+#EXTINF:-1,西藏卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=fc5ff2151d57947abc8814865fa02859
+#EXTINF:-1,贵州卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1760585411&token=0655dcaaa41cfb56b94f990d998af551
+#EXTINF:-1,辽宁卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1760585411&token=a74743bac9005acd38ca8532c6ecf88e
+#EXTINF:-1,重庆卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1760585411&token=fc2696781f430077931fa3a39ae4710e
+#EXTINF:-1,北京卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1760585411&token=0953757f2bb1f67c0f2f8f14e82677ee
+#EXTINF:-1,江苏卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=412e52dfa0d4a0ededcc0bfe869e3e17
+#EXTINF:-1,陕西卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=114b928d0b27972d144d67f794b64377
+#EXTINF:-1,江西卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=2cdd1e315698a1a39a9d397f821c32f2
+#EXTINF:-1,河北卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=62c47972c3ca16000e0258de08c5a971
+#EXTINF:-1,河南卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=8689d35c534f76f661a723ce793da719
+#EXTINF:-1,青海卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1760585411&token=78dc7b7d959a7a4dbe90284406cf66d4
+#EXTINF:-1,青海安多卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&t=1760585411&token=ae6d366eaf0b922542b6546096615b05
+#EXTINF:-1,吉林卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1760585411&token=432f852fc21044898d9d6bca80814ab6
+#EXTINF:-1,浙江卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1760585411&token=8d146785241f7cc3cca773a2f7881fcd
+#EXTINF:-1,黑龙江卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1760585411&token=2632b230666c41bb5b8af3046bd61e23
+#EXTINF:-1,四川卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1760585411&token=a25b194aea8ec0330074a4025ffb95f7
+#EXTINF:-1,海南卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=fc9c26bbc37e5af7793a65134e169477
+#EXTINF:-1,海峡卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1760585411&token=7d661ff92492e988eb8b6cef1e8ccbdb
+#EXTINF:-1,大湾区卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&t=1760585411&token=c371588448601e2db55be7c3a26b4724
+#EXTINF:-1,天津卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1760585411&token=aa43cbae48c98840bf5ba8f257bb9b96
+#EXTINF:-1,深圳卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1760585411&token=538edadf5c4b4d5e6e837d981d0cb5e8
+#EXTINF:-1,宁夏卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=46777afd1d339641ee3d9b72106796ae
+#EXTINF:-1,湖北卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=76eddfe13eada736839871329aad9dac
+#EXTINF:-1,安徽卫视
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&t=1760585411&token=67a313d02f474d9ecdcf34d515b70c08
