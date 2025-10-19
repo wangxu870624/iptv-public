@@ -33,8 +33,26 @@ https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=8
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=09554eaa18bb7938b0a35bcb56022466
 #EXTINF:-1,CCTV17
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
+#EXTINF:-1,CCTV高清
+https://stream.iptv-search.com/iptv_test/main.php?id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&t=1760585411&token=40950946c1c87a741109c86e18ba39e9
+#EXTINF:-1,CGTN英语
+https://stream.iptv-search.com/iptv_test/main.php?id=CGTN%E8%8B%B1%E8%AF%AD&t=1760585411&token=31027649a2fd6ba7cf6fbb77e44f1502
+#EXTINF:-1,卡酷少儿
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&t=1760585411&token=d950081069f8b17c4a151d747e88d004
+#EXTINF:-1,浙江少儿
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF&t=1760585411&token=0a199e65edda8fb80493b7828346f301
+#EXTINF:-1,海南少儿
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF&t=1760585411&token=c1e59417c41174eef8cfba71e592edb9
+#EXTINF:-1,凤凰香港
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1760585411&token=3204f88a14e73924374c42ba4794dc16
+#EXTINF:-1,凤凰中文
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1760585411&token=a3273800aae6f441f4e2d29b2e5548ea
+#EXTINF:-1,凤凰资讯
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1760585411&token=7febd5c752dfb809741498d669ef0cad
 #EXTINF:-1,湖南卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=63c0683563bf5cdb47b73722260627a5
+#EXTINF:-1,湖南国际
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85&t=1760585411&token=903d9fe37f78a0361065f2a81d52c524
 #EXTINF:-1,山东卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1760585411&token=ee8831f5c034ff124ca964335ba77a8d
 #EXTINF:-1,山西卫视
@@ -69,6 +87,8 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB
 https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1760585411&token=0953757f2bb1f67c0f2f8f14e82677ee
 #EXTINF:-1,江苏卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=412e52dfa0d4a0ededcc0bfe869e3e17
+#EXTINF:-1,江苏国际
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&t=1760585411&token=79892ab1e136e093c59ed4b60b280309
 #EXTINF:-1,陕西卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=114b928d0b27972d144d67f794b64377
 #EXTINF:-1,江西卫视
@@ -77,6 +97,8 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB
 https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=62c47972c3ca16000e0258de08c5a971
 #EXTINF:-1,河南卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=8689d35c534f76f661a723ce793da719
+#EXTINF:-1,河南都市频道
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82&t=1760585411&token=52108ca0ccda071b05f8aec60e1314c4
 #EXTINF:-1,青海卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1760585411&token=78dc7b7d959a7a4dbe90284406cf66d4
 #EXTINF:-1,青海安多卫视
@@ -105,3 +127,13 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB
 https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=76eddfe13eada736839871329aad9dac
 #EXTINF:-1,安徽卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&t=1760585411&token=67a313d02f474d9ecdcf34d515b70c08
+#EXTINF:-1,Logos TV 英语 (1080p)
+https://stream.iptv-search.com/iptv_test/main.php?id=Logos+TV+English+%281080p%29+%5BNot+24%2F7%5D&t=1760585411&token=dfdb83a73ce08d595b20dfdba11e3d0b
+#EXTINF:-1,Alkarma TV 青少年英语 (1080p)
+https://stream.iptv-search.com/iptv_test/main.php?id=Alkarma+TV+Youth+%26+English+%281080p%29+%5BNot+24%2F7%5D&t=1760585411&token=1c8b87a4a2633d566f5f0426b8a4a357
+#EXTINF:-1,BeritaSatu 英语
+https://stream.iptv-search.com/iptv_test/main.php?id=BeritaSatu+English&t=1760585411&token=edd7c0c986d119e3fcca75b549edadcc
+#EXTINF:-1,法国24英语(1080p)
+https://stream.iptv-search.com/iptv_test/main.php?id=France+24+English+%281080p%29&t=1760585411&token=aaf76c2dc153c6a2f6e9a12d58a1a325
+#EXTINF:-1,半岛电视台
+https://stream.iptv-search.com/iptv_test/main.php?id=Al+Jazeera+English+%281080p%29&t=1760585411&token=aa8cf04135d9ef20e7176b1ba6fb239b
