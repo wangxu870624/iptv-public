@@ -7,6 +7,10 @@ https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b6
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1760585411&token=d62685a3c74216fb529a697d66a6e0c9
 #EXTINF:-1,CCTV4
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1760585411&token=30206ac2abdd37a1d4104f2bc86536db
+#EXTINF:-1,CCTV4欧洲
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E6%AC%A7%E6%B4%B2&t=1760585411&token=da268c366a4e6adc06b5dc3324870b76
+#EXTINF:-1,CCTV4美洲
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E%E6%B4%B2&t=1760585411&token=11cbe0ca2025e00d706af0bcbbdfffe3
 #EXTINF:-1,CCTV5
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1760585411&token=11ca3f429dba1df4ad42fb1f50512dfa
 #EXTINF:-1,CCTV5+
@@ -35,6 +39,8 @@ https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=0
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
 #EXTINF:-1,CCTV高清
 https://stream.iptv-search.com/iptv_test/main.php?id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&t=1760585411&token=40950946c1c87a741109c86e18ba39e9
+#EXTINF:-1,CCTV老故事
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%80%81%E6%95%85%E4%BA%8B&t=1760585411&token=5b28f6a4a636b9ce83dd85256bdb8fbf
 #EXTINF:-1,CGTN英语
 https://stream.iptv-search.com/iptv_test/main.php?id=CGTN%E8%8B%B1%E8%AF%AD&t=1760585411&token=31027649a2fd6ba7cf6fbb77e44f1502
 #EXTINF:-1,卡酷少儿
@@ -137,3 +143,17 @@ https://stream.iptv-search.com/iptv_test/main.php?id=BeritaSatu+English&t=176058
 https://stream.iptv-search.com/iptv_test/main.php?id=France+24+English+%281080p%29&t=1760585411&token=aaf76c2dc153c6a2f6e9a12d58a1a325
 #EXTINF:-1,半岛电视台
 https://stream.iptv-search.com/iptv_test/main.php?id=Al+Jazeera+English+%281080p%29&t=1760585411&token=aa8cf04135d9ef20e7176b1ba6fb239b
+#EXTINF:-1,半岛电视台英语频道
+https://stream.iptv-search.com/iptv_test/main.php?id=Al+Jazeera+English+%281080p%29&t=1760585411&token=aa8cf04135d9ef20e7176b1ba6fb239b
+#EXTINF:-1,KICCTV
+https://stream.iptv-search.com/iptv_test/main.php?id=KICCTV+%28576p%29&t=1760585411&token=799d941bc43c469ebb7e7644a06c262f
+#EXTINF:-1,CNN美国有线电视
+https://stream.iptv-search.com/iptv_test/main.php?id=CNN+USA+%28720p%29&t=1760585411&token=eedf255124e1f351f5d122812c2d309d
+#EXTINF:-1,NBC新闻
+https://stream.iptv-search.com/iptv_test/main.php?id=NBC+News+NOW+%281080p%29&t=1760585411&token=c1f1d004916d2651abc623d15e8e60ab
+#EXTINF:-1,BBC亚太新闻
+https://stream.iptv-search.com/iptv_test/main.php?id=BBC+News+Asia+Pacific+%281080p%29&t=1760585411&token=a38db6637755ae68d184f9b565364629
+#EXTINF:-1,BBC美国频道
+https://stream.iptv-search.com/iptv_test/main.php?id=BBC+America&t=1760585411&token=ef55fa04945853997c89740f97ba64bb
+#EXTINF:-1,翡翠台北美版(TVB)
+https://stream.iptv-search.com/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88%28TVB+J1%29&t=1760585411&token=99898a41fa352a604d8a1b44a397643b
