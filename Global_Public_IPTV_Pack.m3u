@@ -1,50 +1,46 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1761535820&token=e0d3682a414c20a42405e6e906daa092
-#EXTINF:-1,CCTV2
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="CCTV",CCTV1
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="CCTV",CCTV2
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1761535820&token=f376129a7a3bd45f6272090e4bf2931e
-#EXTINF:-1,CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="CCTV",CCTV3
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1761535820&token=94ceb2a589994f81322adead709e19f0
-#EXTINF:-1,CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="CCTV",CCTV4
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1761535820&token=e8f47ed3c74dfa5b9ad8d59df6682572
-#EXTINF:-1,CCTV4欧洲
+#EXTINF:-1 tvg-id="CCTV4EU" tvg-name="CCTV4欧洲" group-title="CCTV",CCTV4欧洲
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E6%AC%A7%E6%B4%B2&t=1761535820&token=ae6dc6206ae8c6ae813a39978ab76ae4
-#EXTINF:-1,CCTV4美洲
+#EXTINF:-1 tvg-id="CCTV4US" tvg-name="CCTV4美洲" group-title="CCTV",CCTV4美洲
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E%E6%B4%B2&t=1761535820&token=2140836c3c2a000e9a09a3433036344d
-#EXTINF:-1,CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="CCTV",CCTV5
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1761535820&token=ba08c45bfa06b30188b308334df13a8e
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="CCTV",CCTV5+
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1761535820&token=1068ffa1f3358f61e459371cf58b58a5
-#EXTINF:-1,CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="CCTV",CCTV6
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1761535820&token=10852e5c8b08d932cbd92ac20cf3f405
-#EXTINF:-1,CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="CCTV",CCTV7
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1761535820&token=cbef6346ddc87a01b65070120d59175e
-#EXTINF:-1,CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="CCTV",CCTV8
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1761535820&token=3a0617f3d0b8e132cb735ac914207e93
-#EXTINF:-1,CCTV9
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1761535820&token=542e3d70b754662cf452086127ffde47
-#EXTINF:-1,CCTV10
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1761535820&token=10454c725c9b35986b6c9650f7d2a752
-#EXTINF:-1,CCTV11
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1761535820&token=4fafb9194ede3458047e0659d9d048bf
-#EXTINF:-1,CCTV12
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="CCTV",CCTV9
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1760585411&token=da9c8b1a8c75b3a27e5d2813c00dc7b2
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="CCTV",CCTV10
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1760585411&token=904dc116f371d163a15a0f3a5bfe48cc
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="CCTV",CCTV11
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1760585411&token=821b5631124e90e68b543463dba4e16a
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="CCTV",CCTV12
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1761535820&token=b3dc3c7ffe881d92bb52bdccdae922e8
-#EXTINF:-1,CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="CCTV",CCTV13
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1761535820&token=feed83fcf8123446aa3fc9cdf8a2dfa2
-#EXTINF:-1,CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="CCTV",CCTV14
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1761535820&token=c862e5ff8a26518eedc9a441104fc895
-#EXTINF:-1,CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="CCTV",CCTV15
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1761535820&token=e645846307f75d940453022b1cfbd695
-#EXTINF:-1,CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="CCTV",CCTV16
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1761535820&token=8aba73e8f613e710326c4eb5f1bdcfc4
-#EXTINF:-1,CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="CCTV",CCTV17
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1761535820&token=1eeec0df082181fe87f714057e623391
-#EXTINF:-1,CCTV第一剧场
+#EXTINF:-1 tvg-id="CCTVHD" tvg-name="CCTV高清" group-title="CCTV",CCTV高清
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&t=1761535820&token=9296bf69aa1003b520ef2ab2f7157a43
-#EXTINF:-1,CCTV集成播控
-https://stream.iptv-search.com/iptv_test/main.php?id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&t=1761535820&token=79e3a04db93c7ba97c1f265a308d5845
-#EXTINF:-1,CCTV老故事
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%80%81%E6%95%85%E4%BA%8B&t=1761535820&token=516baba80a01d38f23e15c0c23ecfd6e
 #EXTINF:-1,CGTN英语
 https://stream.iptv-search.com/iptv_test/main.php?id=CGTN&t=1761535820&token=13961a8f461c7439d92a2a7dd2681dba
 #EXTINF:-1,卡酷少儿
